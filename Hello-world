@@ -2,3 +2,12 @@
 printf("Hello\n");
 printf("World");
 printf("!\n");
+
+
+small program:
+
+int main():
+{
+printf("hello\n");
+return 0;
+}
