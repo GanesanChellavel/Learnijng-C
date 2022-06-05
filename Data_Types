@@ -1,1 +1,21 @@
 
+Basic data type    -- int ,char,float,double
+Derived data type  -- array, pointer, structure, union
+Enumeration data type -- enum
+void data type        -- void
+
+
+int main ()
+{
+  int a =5;
+  char ch ='a';
+  float =6.5;
+  long = 9876550988
+  printf("hello\n");
+  return 0;
+  }
+  
+  
+  8 bit   = 1 byte
+  One byte can store one charecter , e.g -- 'A' or 'X'
+  
